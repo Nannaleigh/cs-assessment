@@ -10,3 +10,5 @@ function hasUniqueChars(str) {
 }
 
 console.log(hasUniqueChars('moonday'))
+//time complexity: O(n^2)
+//space complexity: O(n)

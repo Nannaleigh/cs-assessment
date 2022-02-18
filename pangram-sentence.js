@@ -10,3 +10,6 @@ function isPangram(str) {
 }
 
 console.log(isPangram("The quick brown fox jumps over the lazy dog"));
+
+//time complexity: O(1) because alphabet cannot be over 26 letters
+//space complexity: O(n)
